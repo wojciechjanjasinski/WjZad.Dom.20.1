@@ -1,0 +1,27 @@
+#wrap {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.button {
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.description button {
+    border:1px solid blueviolet;
+    background:blueviolet;
+    border-radius: 0;
+    color:blueviolet;
+}
+
+.description button:hover {
+    border:1px solid blueviolet;
+    background:blueviolet;
+    color:blueviolet;
+}
